@@ -1,0 +1,526 @@
+LWSC
+3
+
+FirstFrame 0
+LastFrame 5
+FrameStep 1
+PreviewFirstFrame 0
+PreviewLastFrame 60
+PreviewFrameStep 1
+CurrentFrame 0
+FramesPerSecond 30
+
+AddNullObject HandleNull
+ShowObject 6 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0.6981317 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.9110627 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 32
+ShadowOptions 7
+
+AddNullObject SpinerNull
+ShowObject 6 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 12.56637 0
+  Key 12.56637 0.03333334 0 0 0 0 12.56637 4.619565 0
+  Behaviors 4 4
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+
+LoadObjectLayer 1 Z:Sibenik/lw_objects/test6-sve.lwo
+ShowObject 6 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ShadowOptions 7
+
+LoadObjectLayer 1 Z:Sibenik/lw_objects/teren.lwo
+ShowObject 6 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ShadowOptions 7
+
+AmbientColor 1 1 1
+AmbientIntensity 0.25
+EnableRadiosity 1
+CacheRadiosity 1
+RadiosityTolerance 0
+RadiosityRays 192
+RadiosityMinSpacing 2
+
+AddLight
+LightName Light
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -74.23569 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 117.055 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -58.68622 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0.8377576 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.8133235 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 2 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 2 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 2 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LightColor 1 0.960784 0.945098
+LightIntensity 70
+AffectCaustics 1
+LightType 4
+LightQuality 4
+ShadowType 1
+
+AddCamera
+CameraName Camera
+ShowCamera 1 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  7
+  Key -26.88 0 0 0 0 0 0 0 0
+  Key 3.345 0.03333334 0 0 0 0 0 0 0
+  Key -9.270009 0.06666667 0 0 0 0 0 0 0
+  Key -18.81418 0.1 0 0 0 0 30.225 0 0
+  Key -5.929018 0.1333333 0 0 0 0 0 0 0
+  Key -26.61325 0.1666667 0 0 0 0 0 0 0
+  Key -17.61728 0.2 0 0 0 0 -29.95825 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  7
+  Key 2 0 0 0 0 0 0 0 0
+  Key 3.665001 0.03333334 0 0 0 0 0 0 0
+  Key 2 0.06666667 0 0 0 0 0 0 0
+  Key 3.665001 0.1 0 0 0 0 1.665001 0 0
+  Key 13.655 0.1333333 0 0 0 0 0 0 0
+  Key 2 0.1666667 0 0 0 0 0 0 0
+  Key 2 0.2 0 0 0 0 -1.665001 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  7
+  Key 0 0 0 0 0 0 0 0 0
+  Key -2.645003 0.03333334 0 0 0 0 0 0 0
+  Key -0.4299944 0.06666667 0 0 0 0 0 0 0
+  Key -5.375141 0.1 0 0 0 0 -2.645003 0 0
+  Key -1.417834 0.1333333 0 0 0 0 0 0 0
+  Key 6.742935 0.1666667 0 0 0 0 0 0 0
+  Key 2.280426 0.2 0 0 0 0 9.387938 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  7
+  Key 1.570796 0 0 0 0 0 0 0 0
+  Key -1.363101 0.03333334 0 0 0 0 0 0 0
+  Key 1.40848 0.06666667 0 0 0 0 0 0 0
+  Key -5.974259 0.1 0 0 0 0 -2.933897 0 0
+  Key 1.445134 0.1333333 0 0 0 0 0 0 0
+  Key 1.832596 0.1666667 0 0 0 0 0 0 0
+  Key 4.497714 0.2 0 0 0 0 3.195697 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  7
+  Key -0.1989675 0 0 0 0 0 0 0 0
+  Key -0.2687805 0.03333334 0 0 0 0 0 0 0
+  Key -0.9040809 0.06666667 0 0 0 0 0 0 0
+  Key -0.3874621 0.1 0 0 0 0 -0.06981303 0 0
+  Key 0.6614798 0.1333333 0 0 0 0 0 0 0
+  Key -0.2391093 0.1666667 0 0 0 0 0 0 0
+  Key -0.8918623 0.2 0 0 0 0 0.02967121 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  7
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 0.03333334 0 0 0 0 0 0 0
+  Key 0 0.06666667 0 0 0 0 0 0 0
+  Key 0 0.1 0 0 0 0 0 0 0
+  Key 0 0.1333333 0 0 0 0 0 0 0
+  Key 0 0.1666667 0 0 0 0 0 0 0
+  Key 0 0.2 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 32
+ZoomFactor 2.1
+ResolutionMultiplier .25
+FrameSize 160 160
+PixelAspect 1
+MaskPosition 0 0 640 480
+MotionBlur 0
+
+ApertureHeight 0.0267
+Antialiasing 1
+EnhancedAA 1
+AdaptiveSampling 1
+AdaptiveThreshold 0.1
+FieldRendering 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 0.1569 0.3137
+SkyColor 0.4706 0.7059 0.9412
+GroundColor 0.1961 0.1569 0.1176
+NadirColor 0.3922 0.3137 0.2353
+Plugin EnvironmentHandler 1 LW_ImageWorld
+1
+0
+0
+0
+50
+0
+{ Clip
+  { Still
+    "Z:environment/desert.jpg"
+  }
+}
+EndPlugin
+FogType 2
+FogMinDist 0
+FogMaxDist 6000
+FogMinAmount 0
+FogMaxAmount 1
+FogColor 0.5098 0.5098 0.549
+BackdropFog 0
+DitherIntensity 1
+AnimatedDither 0
+Plugin ImageFilterHandler 1 LW_HDRExpose
+2
+0.8
+0
+0
+EndPlugin
+Plugin ImageFilterHandler 2 LW_Corona
+{ Options
+  1
+  { Settings
+    0
+    0
+    0
+    0
+    0
+    1
+    ""
+  }
+  { Variants
+    { VParm
+      0.9
+      0
+    }
+    { VParm
+      0.2
+      0
+    }
+    { VParm
+      50
+      0
+    }
+  }
+  { SizeTexture
+    0
+  }
+  { ColorTexture
+    0
+  }
+}
+EndPlugin
+PluginEnabled 0
+
+RenderMode 2
+RayTraceEffects 3
+RayRecursionLimit 16
+DataOverlayLabel  
+OutputFilenameFormat 1
+SaveRGBImagesPrefix Z:\Sibenik\are+++
+RGBImageFormat 14
+
+ViewConfiguration 0
+DefineView 0
+ViewMode 5
+ViewAimpoint 0 0 0
+ViewZoomFactor 0.2710413
+
+GridNumber 80
+GridSize 1
+CameraViewBG 0
+ShowMotionPath 1
+ShowFogRadius 0
+ShowFogEffect 0
+ShowSafeAreas 1
+ShowFieldChart 0
+
+CurrentObject 3
+CurrentLight 0
+CurrentCamera 0
+GraphEditorFavorites
+{ GraphEd_Favorites
+}
