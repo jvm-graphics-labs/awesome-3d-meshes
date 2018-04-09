@@ -6,7 +6,8 @@
 - [Original Sponza - Crytek](https://github.com/java-opengl-labs/awesome-3d-meshes/tree/master/sponza%20-%20CryTek)
 
 
-Other resources:
+
+### Other resources:
 
 ##### Static models and scenes:
 
