@@ -13,5 +13,5 @@ faces are correspondingly imperfect in this data set.
 Triangles: 36\
 Vertices: 68\
 Updated: 2011-07-27\
-License: [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)
+License: [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)\
 © 2009 Morgan McGuire

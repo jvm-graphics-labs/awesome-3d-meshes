@@ -21,5 +21,5 @@ Additional resources:
 Triangles: 331179\
 Vertices: 216862\
 Updated: 2011-07-27\
-License: Public Domain
+License: Public Domain\
 © Anat Grynberg and Greg Ward
