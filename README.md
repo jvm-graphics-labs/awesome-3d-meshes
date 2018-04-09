@@ -1,5 +1,12 @@
 # Collection of free 3d meshes
 
+- [McGuire Computer Graphics Archive](https://github.com/java-opengl-labs/awesome-3d-meshes/tree/master/McGuire)
+- [Original Sibenik Cathedral](https://github.com/java-opengl-labs/awesome-3d-meshes/tree/master/Sibenik%20cathedral%20-%20Marko%20Dabrovic)
+- [The Stanford 3D Scanning Repository](https://github.com/java-opengl-labs/awesome-3d-meshes/tree/master/Stanford%203D%20Scanning%20Repository)
+- [Original Sponza - Crytek](https://github.com/java-opengl-labs/awesome-3d-meshes/tree/master/sponza%20-%20CryTek)
+
+
+Other resources:
 
 ##### Static models and scenes:
 
@@ -14,3 +21,8 @@
 - [MIT CSAIL 1](http://people.csail.mit.edu/drdaniel/mesh_animation/index.html)
 - [MIT CSAIL 2](http://people.csail.mit.edu/drdaniel/dynamic_shape/index.html)
 - [Pants](http://www.ryanmwhite.com/research/cloth_cap.html)
+
+
+##### Contributions
+
+Don't hesitate to contribute, feel free to use [issues](https://github.com/java-opengl-labs/awesome-3d-meshes/issues)
