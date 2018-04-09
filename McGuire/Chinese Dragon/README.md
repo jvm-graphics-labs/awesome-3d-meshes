@@ -6,7 +6,7 @@ McGuire converted the PLY from [Georgia Tech](http://www.cc.gatech.edu/projects/
 vertex normals and wrote the result to OBJ format using custom code. This model is originally from the Stanford 3D Scanning Repository. 
 It was scanned from a real object by a Cyberware 3030 MS scanner. The model reconstructed from scans by Stanford contains fewer 
 triangles and more vertices. The Georgia Tech version may have been reconstructed independently from the original points. As with 
-many models on this page, McGuire reported the vertex count after merging co-located vertices with the same normals during load 
+many models on this page, McGuire reports the vertex count after merging co-located vertices with the same normals during load 
 (i.e., the size that your vertex buffer will actually be in memory), so his vertex count is lower than the one reported by Georgia Tech,
 but his face count is identical. The icon image is from [NVIDIA](http://www.geforce.com/#/Optimize/Guides/ambient-occlusion).
     
