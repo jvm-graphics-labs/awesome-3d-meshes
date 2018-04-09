@@ -6,8 +6,8 @@ Holodeck model created for the [G3D Innovation Engine](http://casual-effects.com
  with additional materials by Morgan McGuire at NVIDIA.
 
 
-Triangles: 1087474\
-Vertices: 549333\
-Updated: 2011-07-27\
-License: [Stanford Scan](http://www.graphics.stanford.edu/data/3Dscanrep/)\
-© 1996 Stanford University
+Triangles: ?\
+Vertices: ?\
+Updated: 2017-07-03\
+License: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/us/)\
+© 2016 John William Telford
