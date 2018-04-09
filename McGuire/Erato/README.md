@@ -7,6 +7,7 @@
 The young woman wears a wreath of flowers in her hair and a large cloak wound around her right side and arm.she plays a 
 kithara or lyre and may be Erato, the Muse of Erotic Poetry."    
 
+
 Triangles: 412.7k\
 Vertices: 207.3k\
 Updated: 2017-07-02\

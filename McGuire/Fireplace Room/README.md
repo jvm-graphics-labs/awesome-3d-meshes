@@ -2,9 +2,10 @@
 
 ![image](https://casual-effects.com/g3d/data10/research/model/fireplace_room/icon.png)
 
- First used for rendering research and converted from Blender to Mitsuba/Tungsten/PBRT format by [Benedikt Bitterli](https://benedikt-bitterli.me/resources/)
+First used for rendering research and converted from Blender to Mitsuba/Tungsten/PBRT format by [Benedikt Bitterli](https://benedikt-bitterli.me/resources/)
 
 Converted to OBJ by Nicholas Hull at NVIDIA, with materials corrected by Morgan McGuire at Williams College to match Bitterli's reference images.      
+
 
 Triangles: ?\
 Vertices: ?\

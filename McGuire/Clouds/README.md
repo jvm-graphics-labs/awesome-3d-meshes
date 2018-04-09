@@ -5,6 +5,7 @@
 Five polygonal cloud shell models created using SculptGL which first appeared in [McGuire and Mara, Phenomenological Transparency, 
 IEEE Transactions of Visualization and Computer Graphics, no. 5, May, 2017](http://casual-effects.com/research/McGuire2017Transparency/index.html).    
 
+
 Triangles: undefined\
 Vertices: undefined\
 Updated: 2017-07-02\

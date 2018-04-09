@@ -8,6 +8,7 @@ and then exported it OBJ format using G3D. The model is hole-free, but contains 
 
 Please see [the note](http://www.graphics.stanford.edu/data/3Dscanrep/#uses) about culturally appropriate uses of this model.     
 
+
 Triangles: 1087474\
 Vertices: 549333\
 Updated: 2011-07-27\

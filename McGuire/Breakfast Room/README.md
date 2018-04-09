@@ -5,6 +5,7 @@
 Exported from Blender to OBJ and materials and geometry corrected by Morgan McGuire. First used for 3D graphics research by Bitterli. 
 Geometry downloaded from [here](http://www.blendswap.com/blends/view/75431). Marble texture is public domain from [here](https://hugolj.deviantart.com/art/White-Marble-Texture-500949943).    
 
+
 Triangles: 808,622\
 Vertices: 166,211\
 Updated: 2017-09-27\
