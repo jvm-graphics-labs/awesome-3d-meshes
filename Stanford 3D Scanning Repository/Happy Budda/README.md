@@ -10,15 +10,15 @@ Reconstruction: vrip (conservatively decimated)
 Size of reconstruction: 543,652 vertices, 1,087,716 triangles
 Comments: hole-free, but contains small bridges due to space carving, so its topological genus is larger than it appears
 
-Range data:
-    happy_stand.tar.gz (14 MB compressed, 51 MB uncompressed)
-    happy_side.tar.gz (8.9 MB compressed, 35 MB uncompressed)
-    happy_back.tar.gz (8.1 MB compressed, 32 MB uncompressed)
-    happy_fillers.tar.gz (2.2 MB compressed, 9.0 MB uncompressed)
-    happy_backdrop.tar.gz (22 MB compressed, 89 MB uncompressed)
+Range data:\
+    `happy_stand.zip (10 MB compressed, 51 MB uncompressed)`
+    `happy_side.zip (6.3 MB compressed, 35 MB uncompressed)`
+    `happy_back.zip (5.7 MB compressed, 32 MB uncompressed)`
+    `happy_fillers.zip (1.5 MB compressed, 9.0 MB uncompressed)`
+    `happy_backdrop.zip (15 MB compressed, 89 MB uncompressed)`
 
 Vripped reconstruction:
-    happy_recon.tar.gz (14 MB compressed, 56 MB uncompressed)
+    `happy_recon.zip (11 MB compressed, 56 MB uncompressed)`
 
 Inventor and VRML versions of this model are available from Georgia Tech's [large models archive](http://www.cc.gatech.edu/projects/large_models).
 A QSplat version of this model is available in the [QSplat models archive](http://graphics.stanford.edu/data/qsplat/).

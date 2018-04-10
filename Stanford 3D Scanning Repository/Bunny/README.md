@@ -11,8 +11,8 @@ Reconstruction: zipper
 Size of reconstruction: 35947 vertices, 69451 triangles
 Comments: contains 5 holes in the bottom
 
-Range data + zippered reconstruction:
-    bunny.tar.gz (4.9 MB compressed, 22 MB uncompressed)
+Range data + zippered reconstruction:\
+    `bunny.zip (3.6 MB compressed, 22 MB uncompressed)`
 
 Inventor and VRML versions of this model are available from Georgia Tech's [large models archive](http://www.cc.gatech.edu/projects/large_models).
 A QSplat version of this model is available in the [QSplat models archive](http://graphics.stanford.edu/data/qsplat/).
