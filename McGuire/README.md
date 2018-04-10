@@ -10,7 +10,7 @@ This page gives citation source code that you can copy and paste for various typ
 All meshes are packaged as zip files using OBJ and PNG to simplify loading in a research and 
 prototyping environment. McGuire and his collaborators have converted most of these models from their original formats and corrected geometry and texture errors.
 
- 
+
 # How to Cite this Archive
 ## LaTeX and BibTeX
 LaTeX example of use:
