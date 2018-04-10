@@ -22,4 +22,4 @@ We have also captured a [light field](http://graphics.stanford.edu/data/LF/lfs.h
 This dataset was scanned in 1994 using the zippering technique described in [Turk94].
 Here is longer, [illustrated history of the Stanford bunny](http://www.cc.gatech.edu/~turk/bunny/bunny.html), from [Greg Turk's](http://www.cc.gatech.edu/~turk/) web pages at Georgia Tech.
 
-Note about the bunny photograph: The bunny was bought and scanned in 1993-94. The color photograph (above) was taken on April 1, 2003. The bits of gray plaster on the sides of the bunny's feet somehow appeared since the bunny was scanned; they are not present in the 3D model. The chip on his left ear, however, is present in the model as well, although degraded in resolution. 
+**Note about the bunny photograph:** The bunny was bought and scanned in 1993-94. The color photograph (above) was taken on April 1, 2003. The bits of gray plaster on the sides of the bunny's feet somehow appeared since the bunny was scanned; they are not present in the 3D model. The chip on his left ear, however, is present in the model as well, although degraded in resolution. 

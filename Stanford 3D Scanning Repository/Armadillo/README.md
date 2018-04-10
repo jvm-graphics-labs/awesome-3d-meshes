@@ -9,10 +9,10 @@ Total size of scans: 3,390,515 points (about 7,500,000 triangles)
 Reconstruction: vrip (conservatively decimated)
 Size of reconstruction: 345,944 triangles
 
-Range data:
+Range data:\
     Armadillo_scans.tar.gz (30 MB compressed)
 
-Vripped reconstruction:
+Vripped reconstruction:\
     Armadillo.ply.gz (4 MB compressed, 7 MB uncompressed)
 
 This dataset first appeared in [Krishnamurthy96].   

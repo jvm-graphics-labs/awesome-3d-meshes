@@ -10,14 +10,14 @@ Reconstruction: vrip (conservatively decimated)
 Size of reconstruction: 566,098 vertices, 1,132,830 triangles
 Comments: contains numerous small holes
 
-Range data:
-    `dragon_stand.zip (4.3 MB compressed, 23 MB uncompressed)`
-    `dragon_side.zip (2.9 MB compressed, 16 MB uncompressed)`
-    `dragon_up.zip (4 MB compressed, 24 MB uncompressed)`
-    `dragon_fillers.zip (4.6 MB compressed, 26 MB uncompressed)`
+Range data:\
+    `dragon_stand.zip (4.3 MB compressed, 23 MB uncompressed)`\
+    `dragon_side.zip (2.9 MB compressed, 16 MB uncompressed)`\
+    `dragon_up.zip (4 MB compressed, 24 MB uncompressed)`\
+    `dragon_fillers.zip (4.6 MB compressed, 26 MB uncompressed)`\
     `dragon_backdrop.zip (7.7 MB compressed, 44 MB uncompressed)`
 
-Vripped reconstruction:
+Vripped reconstruction:\
     `dragon_recon.zip (8.6 MB compressed, 43 MB uncompressed)`
 
 Inventor and VRML versions of this model are available from Georgia Tech's [large models archive](http://www.cc.gatech.edu/projects/large_models).
