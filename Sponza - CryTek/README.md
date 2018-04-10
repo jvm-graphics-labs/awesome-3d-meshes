@@ -1,4 +1,4 @@
-#[Sponza Model](http://www.crytek.com/cryengine/cryengine3/downloads)
+# [Sponza Model](http://www.crytek.com/cryengine/cryengine3/downloads)
 August 19, 2010
 
 The Atrium Sponza Palace, Dubrovnik, is an elegant and improved model created by Frank Meinl. The original Sponza model was created by Marko Dabrovic in early 2002. Over the years, the Sponza Atrium scene has become one of the most popular 3D scenes for testing global illumination and radiosity due to it's specific architectural structure which is particularly complex for global illumination light.
