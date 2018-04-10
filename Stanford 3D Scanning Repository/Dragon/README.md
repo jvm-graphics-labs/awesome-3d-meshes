@@ -25,4 +25,4 @@ A QSplat version of this model is available in the [QSplat models archive](http:
 Light fields made from renderings of this model are available in the [Stanford Light Fields Archive](http://graphics.stanford.edu/software/lightpack/lifs.html).
 This dataset first appeared in [Curless96].
 
-Using the dragon: Please remember that the dragon is a symbol of Chinese culture. See our reminder above about [inappropriate uses](http://graphics.stanford.edu/data/3Dscanrep/#uses) of this model.  
+**Using the dragon:** Please remember that the dragon is a symbol of Chinese culture. See our reminder above about [inappropriate uses](http://graphics.stanford.edu/data/3Dscanrep/#uses) of this model.  

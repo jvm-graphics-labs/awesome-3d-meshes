@@ -26,4 +26,4 @@ A voxel array representation of this model (i.e. a Stanford VRI file) is availab
 If you want to fly around the buddha, but don't need the model, try [ScanView](http://graphics.stanford.edu/software/scanview/), our client / server rendering system.
 This dataset first appeared in [Curless96].
 
-Using the buddha model: Please remember that the buddha is a religious symbol. See our reminder above about [inappropriate uses](http://graphics.stanford.edu/data/3Dscanrep/#uses) of this model. 
+**Using the buddha model:** Please remember that the buddha is a religious symbol. See our reminder above about [inappropriate uses](http://graphics.stanford.edu/data/3Dscanrep/#uses) of this model. 

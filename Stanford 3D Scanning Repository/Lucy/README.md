@@ -21,7 +21,7 @@ Vripped reconstruction:\
 
 A QSplat version of this model is available in the [QSplat models archive](http://graphics.stanford.edu/data/qsplat/). 
 
-Using Lucy: Please remember that Lucy is a Christian angel. See our reminder above about [inappropriate uses] of this model.
+**Using Lucy:** Please remember that Lucy is a Christian angel. See our reminder above about [inappropriate uses] of this model.
 Feel free, however, to build a [lego replica](http://graphics.stanford.edu/data/3Dscanrep/lucy-lego-s.jpg) of Lucy, 
 as David Winkler has done. Check out his explanation of the [conversion process](http://www.brickshelf.com/gallery/happyfrosh/BrickFest2005/automatedbricklayout.pdf). 
 You can also download the [plans](http://www.brickshelf.com/gallery/happyfrosh/StanfordAngel/) and build it yourself.   
