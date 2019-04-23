@@ -2,7 +2,7 @@
 
 ![image](https://casual-effects.com/g3d/data10/research/model/roadBike/icon.png)
 
-Yasutoshi Mori provided this model from his github repository exported in OBJ format. Morgan McGuire tuned the materials for physically
+Yasutoshi Mori provided this model from his [github repository](https://github.com/MirageYM/3DModels) exported in OBJ format. Morgan McGuire tuned the materials for physically
  based rendering. The seat and brakes have some exposed backfaces.
 
 
